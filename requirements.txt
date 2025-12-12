@@ -1,0 +1,6 @@
+aiogram==3.23.0
+python-dotenv==1.0.0
+redis==5.0.5
+apscheduler==3.10.4
+aiohttp==3.13.2
+asyncpg==0.31.0
